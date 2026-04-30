@@ -32,4 +32,4 @@ Menampilkan hasil sorting ke layar
 Output Program :
 <img width="332" height="16" alt="OUTPUT TA 2" src="https://github.com/user-attachments/assets/7a4fa81d-87a3-47c6-b595-b150ec37b934" />
 
-Link Youtube : 
+Link Youtube : https://youtu.be/KS0cFKzSsSc
