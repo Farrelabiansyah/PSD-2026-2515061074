@@ -59,4 +59,5 @@ Output Kode :
 <img width="303" height="356" alt="OUTPUT 1" src="https://github.com/user-attachments/assets/b32e7b71-614a-452a-9806-d0847a474adb" />
 <img width="257" height="224" alt="OUTPUT 2" src="https://github.com/user-attachments/assets/ba607d2e-4d78-4140-93a3-574abbb0c253" />
 
-Link Youtube : 
+Link Youtube : https://youtu.be/bjOqNiH1DWw
+
