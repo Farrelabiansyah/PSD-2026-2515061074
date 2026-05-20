@@ -17,7 +17,10 @@ Bagian ini merupakan fungsi utama program. Program membuat objek bst dari class 
 <img width="287" height="170" alt="Cuplikan layar 2026-05-19 105144" src="https://github.com/user-attachments/assets/3b080086-0aef-41bb-a47e-962d4a9c19f1" />
 Bagian ini merupakan fungsi utama program. Program membuat objek bst dari class BSTBioskop untuk menjalankan semua operasi BST. Perulangan while True digunakan agar menu program terus berjalan sampai pengguna memilih keluar. Bagian print digunakan untuk menampilkan menu pilihan kepada pengguna, seperti menambah kursi, mencari kursi, melihat semua kursi, atau keluar dari program. 
 <img width="302" height="348" alt="Cuplikan layar 2026-05-19 105157" src="https://github.com/user-attachments/assets/0c720c9e-324c-4960-bdc4-03fcea684a4b" />
-
+Jika pengguna memilih menu 1, program akan meminta input nomor kursi dan menjalankan fungsi insert() untuk menambahkan kursi ke BST.
+Jika memilih menu 2, program akan menjalankan fungsi search() untuk mencari nomor kursi.
+Jika memilih menu 3, program menjalankan traversal inorder() untuk menampilkan seluruh kursi secara terurut.
+Jika pengguna memilih menu 4, program akan berhenti.
 
 Output Kode : 
 <img width="196" height="433" alt="OUTPUT TA 5" src="https://github.com/user-attachments/assets/78fcdaeb-7c7f-4d38-bbad-eecbeaea595e" />
