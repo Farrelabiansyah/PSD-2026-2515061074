@@ -30,4 +30,4 @@ Output Program :
 <img width="222" height="422" alt="OUT DUA" src="https://github.com/user-attachments/assets/4e3635cd-802f-48d3-aa13-1e7ab02d84a3" />
 <img width="283" height="237" alt="OUT SATU" src="https://github.com/user-attachments/assets/c3ba5e34-b806-4649-a643-ba9995e9e635" />
 
-Link Youtube : 
+Link Youtube : https://youtu.be/aVaz9UNuFos
